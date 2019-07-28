@@ -914,12 +914,10 @@ https://github.com/Zeitgeisth/Harayo
 ### TreasureNepal2020
 --------------------------------------
 **Elevator Pitch:**
-Creating Experiences
+A treasure hunt game that aims to promote and decentralize tourism in Nepal.
 
 **The problem it solves:**
-Despite of having beautiful places in Nepal,most of these places are in shadow due to lack of advertisements. Only popular and common places are getting tourist attraction.
-
-Having great potentials, places are losing their values, culture, architecture due to lack of tourist attention. Some culture are in the stage of extinction. Due to highlighted/popular some places, nearby other valuable paces are not getting proper attentions.
+Visit Nepal year 2020 is at our doors. We all well know that tourism in Nepal is highly centralized in a few primary attractions where there is flow of tourist all the time. On other hand, there are places within Nepal, mostly remote places, which have tons of potentiality and natural beauty but still are struggling to get inflow of tourists. Moreover, the tourism to Nepal has been sort of a budget tour. International tourists do not spend much while they are in Nepal, which would have aided in increasing the GDP and economy of our country. TreasureNepal2020 is a treasure hunt game which will motivate tourists both to go to remote and novel places and to spend more, because they will get higher points by doing so.
 
 **Team name:**
 Dracarys
